@@ -37,7 +37,7 @@ Automatic tab completion under Inser Mode
 #### benmills/vimux'
 #### BufOnly.vim
 
-### Generic Programming Support 
+## Generic Programming Support 
 #### jakedouglas/exuberant-ctags'
 #### honza/vim-snippets'
 #### Townk/vim-autoclose'
@@ -45,7 +45,7 @@ Automatic tab completion under Inser Mode
 #### tobyS/vmustache'
 #### janko-m/vim-test'
 
-### Inteface Improvements
+## Inteface Improvements
 #### ryanoasis/vim-devicons'
 #### vim-airline/vim-airline'
 #### vim-airline/vim-airline-themes'
@@ -63,13 +63,13 @@ Automatic tab completion under Inser Mode
 #### daylerees/colour-schemes'
 #### effkay/argonaut.vim'
 
-### Markdown and Writing
+## Markdown and Writing
 #### reedes/vim-pencil'
 #### tpope/vim-markdown'
 #### jtratner/vim-flavored-markdown'
 #### LanguageTool'
 
-### Elixir Support
+## Elixir Support
 #### elixir-lang/vim-elixir'
 #### avdgaag/vim-phoenix'
 #### mmorearty/elixir-ctags'
@@ -80,20 +80,20 @@ Automatic tab completion under Inser Mode
 #### tpope/vim-endwise'
 #### jadercorrea/elixir_generator.vim'
 
-### Erlang Support
+## Erlang Support
 #### vim-erlang/vim-erlang-tags'
 #### vim-erlang/vim-erlang-runtime'
 #### vim-erlang/vim-erlang-omnicomplete'
 #### vim-erlang/vim-erlang-compiler'
 
-### ELM Support
+## ELM Support
 #### lambdatoast/elm.vim'
 
-### PHP Support
+## PHP Support
 #### phpvim/phpcd.vim'
 #### tobyS/pdv'
 
-### Git Support and Integration
+## Git Support and Integration
 #### kablamo/vim-git-log'
 #### gregsexton/gitv'
 #### tpope/vim-fugitive'
